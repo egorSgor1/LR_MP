@@ -8,4 +8,4 @@
 
 График зависимости числа коллизий хэш-функции от размерности массива для каждой структуры данных: 
   
-  ![Иллюстрация к проекту](https://github.com/egorSgor1/LR_MP/blob/main/LR1/pictures/pic3.png)
+  ![Иллюстрация к проекту](LR2/pictures/collisions.png)
